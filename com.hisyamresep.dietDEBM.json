@@ -1,0 +1,240 @@
+{
+ "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 3
+    
+    }
+  ],
+     "Categories": [
+    {
+      "category": "MENU 1",
+      "image": "file:///android_asset/image/1.jpg"
+
+    },
+    {
+      "category": "MENU 2",
+      "image": "file:///android_asset/image/2.jpg"
+
+    },
+    {
+      "category": "MENU 3",
+      "image": "file:///android_asset/image/3.jpg"
+
+    },
+    {
+      "category": "MENU 4",
+      "image": "file:///android_asset/image/4.jpg"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "MENU 1",
+      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "image": "file:///android_asset/image/gambar_1.jpg",
+      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "link": "file:///android_asset/guide/resep_1.html"
+    },
+    {
+      "id": 2,
+      "category": "MENU 2",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/gambar_2.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/resep_2.html"
+	{  
+      "id": 3,
+      "category": "MENU 2",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "file:///android_asset/image/gambar_3.jpg",
+      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "link": "file:///android_asset/guide/resep_3.html"
+    },
+    {
+      "id": 4,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_4.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_4.html"
+    },
+	{
+      "id": 5,
+      "category": "MENU 1",
+      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "image": "file:///android_asset/image/gambar_5.jpg",
+      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "link": "file:///android_asset/guide/resep_5.html"
+    },
+    {
+      "id": 6,
+      "category": "MENU 2",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/gambar_6.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/resep_6.html"
+	{  
+      "id": 7,
+      "category": "MENU 2",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "file:///android_asset/image/gambar_7.jpg",
+      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "link": "file:///android_asset/guide/resep_7.html"
+    },
+    {
+      "id": 8,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_8.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_8.html"
+    },
+	{
+      "id": 9,
+      "category": "MENU 1",
+      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "image": "file:///android_asset/image/gambar_9.jpg",
+      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "link": "file:///android_asset/guide/resep_9.html"
+    },
+    {
+      "id": 10,
+      "category": "MENU 2",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/gambar_10.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/resep_10.html"
+	{  
+      "id": 11,
+      "category": "MENU 2",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "file:///android_asset/image/gambar_11.jpg",
+      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "link": "file:///android_asset/guide/resep_11.html"
+    },
+    {
+      "id": 12,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_12.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_12.html"
+    },
+	{
+      "id": 13,
+      "category": "MENU 1",
+      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "image": "file:///android_asset/image/gambar_13.jpg",
+      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "link": "file:///android_asset/guide/resep_13.html"
+    },
+    {
+      "id": 14,
+      "category": "MENU 2",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/gambar_14.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/resep_14.html"
+	{  
+      "id": 15,
+      "category": "MENU 2",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "file:///android_asset/image/gambar_15.jpg",
+      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "link": "file:///android_asset/guide/resep_15.html"
+    },
+    {
+      "id": 16,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_16.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_16.html"
+    },
+	{
+      "id": 17,
+      "category": "MENU 1",
+      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "image": "file:///android_asset/image/gambar_17.jpg",
+      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "link": "file:///android_asset/guide/resep_17.html"
+    },
+    {
+      "id": 18,
+      "category": "MENU 2",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/gambar_18.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/resep_18.html"
+	{  
+      "id": 19,
+      "category": "MENU 2",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "file:///android_asset/image/gambar_19.jpg",
+      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "link": "file:///android_asset/guide/resep_19.html"
+    },
+    {
+      "id": 20,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_20.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_20.html"
+    },
+	{
+      "id": 21,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_21.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_21.html"
+    },
+	{
+      "id": 22,
+      "category": "MENU 1",
+      "title": "Filter iklan dewasa dengan KIDOZ di aplikasi/game target Anak",
+      "image": "file:///android_asset/image/gambar_22.jpg",
+      "description": "Jika anda menggunakan link website atau link HTML dari folder asset maka wajib mengisi bagian description",
+      "link": "file:///android_asset/guide/resep_22.html"
+    },
+    {
+      "id": 23,
+      "category": "MENU 2",
+      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "image": "file:///android_asset/image/gambar_23.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/resep_23.html"
+	{  
+      "id": 24,
+      "category": "MENU 2",
+      "title": "Yang harus disiapkan untuk monetize iklan Admob",
+      "image": "file:///android_asset/image/gambar_24.jpg",
+      "description": "Sampai saai ini Admob masih menjadi pilihan utama dalam me monetize aplikasi mobile. Tapi dikarenakan kendala limits akun Admob akhirnya banyak pengembang aplikasi mulai mencari pengganti Admob seperti Facebook Audience Network, Mopub, Startapp, dll",
+      "link": "file:///android_asset/guide/resep_24.html"
+    },
+    {
+      "id": 25,
+      "category": "MENU 1",
+      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
+      "image": "file:///android_asset/image/gambar_25.jpg",
+      "description": "bagi pemain monetize aplikasi pasti sudah tidak asing dengan istilah GDPR atau General Data Protection Regulation. GDRP adalah peraturan perlindungan data pribadi wilayah Eropa, jadi jika aplikasi anda didistribusikan di negara-negara Uni Eropa maka saya sarankan untuk memasang GDPR. ",
+      "link": "file:///android_asset/guide/resep_25.html"
+    }
+  ]
+}
